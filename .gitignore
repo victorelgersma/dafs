@@ -1,2 +1,4 @@
 
+*.nc
+*.grib
 .DS_Store
