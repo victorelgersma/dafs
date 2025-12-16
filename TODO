@@ -1,5 +1,10 @@
 - [ ] look up piecewise functions latex
+- [ ] how do I safely 'OR' two datarrays. 
+- [ ] figure out how to compute a new DataArray by applying a function to each element of an existing DataArray. 
+- [ ] get a clean version of the notebook to upload
+- [ ] do some Xarray learning
 - [ ] do tutorial 3
+- [ ] learn more about the "plot" function including how to add a title.
 - [ ] do lesson 3
 - [ ] then do assignment 
 - [ ] find open research question. 
