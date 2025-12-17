@@ -1,5 +1,5 @@
 - [ ] look up piecewise functions latex
-- [ ] how do I safely 'OR' two datarrays. 
+- [ ] improve graphs (add axes, labels)
 - [ ] figure out how to compute a new DataArray by applying a function to each element of an existing DataArray. 
 - [ ] get a clean version of the notebook to upload
 - [ ] do some Xarray learning
@@ -8,3 +8,5 @@
 - [ ] do lesson 3
 - [ ] then do assignment 
 - [ ] find open research question. 
+
+- [x] What is the difference between a xarray.core.dataset.Dataset and a np.array. powr seems to work for the np.array but not for the Dataset? 
