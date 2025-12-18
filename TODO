@@ -1,3 +1,8 @@
+- [ ] read tutorial solution for week6 to see how you avoid different means
+- [ ] look up "NoDataInBounds" error
+- [ ] write to file final solutionj
+- [ ] look up tutorial of creating chloropleth maps in python 
+- [ ] how to iterate over items in a <class 'geopandas.geodataframe.GeoDataFrame''>
 - [ ] look up piecewise functions latex
 - [ ] improve graphs (add axes, labels)
 - [ ] figure out how to compute a new DataArray by applying a function to each element of an existing DataArray. 
