@@ -18,3 +18,8 @@ use the kernel from this venv
 ## Hand-in requirements:
 1. just hand in a ipynb notebook
 
+
+## Resources
+
+Installing and using Jupyter Notebooks
+https://www.youtube.com/watch?v=HW29067qVWk
