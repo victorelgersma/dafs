@@ -1,8 +1,9 @@
 
 .venv
 *.nc
+*.png
 *.zip
 *.grib
 .DS_Store
 final_assignment/clipped_nuts/
-*/.ipynb_checkpoints
+\.ipynb_checkpoints/
