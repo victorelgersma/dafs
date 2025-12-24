@@ -1,4 +1,7 @@
-- [ ] watch https://www.youtube.com/watch?v=oNkgK3l4uTY
+- [ ] draw histogram of capacity factors to justify 0.1 vs 0.1th quantile
+- [ ] finish pandas tutorial
+- [ ] finish matplotlib tutorial of corey schafer
+- [ ] watch https://www.youtube.com/watch?v=oNkgk3l4uTY
 - [ ] read tutorial solution for week6 to see how you avoid different means
 - [ ] look up "NoDataInBounds" error
 - [ ] write to file final solutionj
