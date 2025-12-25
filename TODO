@@ -1,6 +1,8 @@
-- [ ] finish netcdf tutorial here https://www.youtube.com/watch?v=TDLOF188XP8&list=PLTJsu1ustEMbVgE6SivbF17XvWmb3hqoR&index=2
-- [ ] draw histogram of capacity factors to justify 0.1 vs 0.1th quantile
 - [ ] finish pandas tutorial by mr corey schafer
+- [ ] finish netcdf tutorial here https://www.youtube.com/watch?v=TDLOF188XP8&list=PLTJsu1ustEMbVgE6SivbF17XvWmb3hqoR&index=2
+- [ ] answer Q6
+- [x] use Spearman instead of Pearson correlation
+- [ ] draw histogram of capacity factors to justify 0.1 vs 0.1th quantile
 - [ ] finish matplotlib tutorial of corey schafer
 - [ ] watch https://www.youtube.com/watch?v=oNkgk3l4uTY
 - [ ] read tutorial solution for week6 to see how you avoid different means
